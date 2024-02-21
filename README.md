@@ -2,8 +2,8 @@
 
 Me chamo **Thais Alves**, tenho 20 anos e moro em Contagem - MG.
  - 💻 **Desenvolvedora de Software**
- - 👩‍💻 Técnica em Informática
- - 🎓 Graduanda de Sistemas de Informações
+ - 👩‍💻 Técnica em Informática pelo Cefet - MG
+ - 🎓 Graduanda de Sistemas de Informações na PUC Minas 
 
 ### Ferramentas e Tecnologias
 <div style="display: inline_block" >
