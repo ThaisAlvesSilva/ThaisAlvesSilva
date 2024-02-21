@@ -1,7 +1,7 @@
 ### Olá 👋
 
-Me chamo Thais Alves, tenho 20 anos e moro em Contagem - MG.
- - 💻 Desenvolvedora de Software
+Me chamo **Thais Alves**, tenho 20 anos e moro em Contagem - MG.
+ - 💻 **Desenvolvedora de Software**
  - 👩‍💻 Técnica em Informática
  - 🎓 Graduanda de Sistemas de Informações
 
