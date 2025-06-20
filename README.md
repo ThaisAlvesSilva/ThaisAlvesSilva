@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Me chamo **Thais Alves** e tenho 20 anos.
+Me chamo **Thais Alves** e tenho 22 anos.
  - 💻 **Desenvolvedora de Software**
  - 👩‍💻 Técnica em Informática pelo Cefet - MG
  - 🎓 Graduanda de Sistemas de Informações na PUC Minas 
